@@ -1,0 +1,26 @@
+- What this is
+
+battle royal shogi
+perimeter gets unusable in every 30 moves
+
+
+
+- Prepare for compile
+
+install node.js
+npm install --save typescript
+npm install --save-dev webpack webpack-cli
+npm install --save-dev ts-loader style-loader css-loader file-loader html-webpack-plugin
+npm install --save-dev webpack-dev-server
+
+- to compile
+
+npm run dev
+npm run prod 
+
+
+- Reference
+
+https://nodejs.org/ja
+
+https://blog.harveydelaney.com/creating-a-game-using-html5-canvas-typescript-and-webpack/
